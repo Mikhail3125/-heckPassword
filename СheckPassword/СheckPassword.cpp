@@ -10,7 +10,7 @@
 -наличие хотя бы одной цифры,
 -наличие хотя бы одного символа пунктуации,
 */
-
+//fix
 namespace CheckPassword
 {
 	bool CheckLengthPassword(char*);
